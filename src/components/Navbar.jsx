@@ -23,8 +23,8 @@ export default function Navbar() {
                 </div>
               </div>
               <div className="ml-2">
-                <p className="text-white font-semibold tracking-wide">BlueOrbit IT</p>
-                <p className="text-xs text-cyan-200/80">Future-ready solutions</p>
+                <p className="text-white font-semibold tracking-wide">PT. TERA MULTI TECHNOLOGY</p>
+                <p className="text-xs text-cyan-200/80">Enterprise IT Solutions</p>
               </div>
             </a>
 

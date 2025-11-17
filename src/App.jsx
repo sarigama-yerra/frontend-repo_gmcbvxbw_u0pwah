@@ -16,7 +16,7 @@ function App() {
       </main>
       <footer className="bg-slate-950 border-t border-white/10">
         <div className="mx-auto max-w-7xl px-6 sm:px-8 py-8 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p className="text-sm text-cyan-100/70">© {new Date().getFullYear()} BlueOrbit IT. All rights reserved.</p>
+          <p className="text-sm text-cyan-100/70">© {new Date().getFullYear()} PT. TERA MULTI TECHNOLOGY. All rights reserved.</p>
           <div className="text-sm text-cyan-100/60">Built with secure, scalable tech — ready for enterprise.</div>
         </div>
       </footer>
